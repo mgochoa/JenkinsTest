@@ -1,0 +1,16 @@
+{
+    "name":"jenkinstest",
+    "version": "1.0.0",
+    "description": "hello jenkins test app",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "mocha"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.2.0"
+    }
+}
